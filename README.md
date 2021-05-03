@@ -7,21 +7,14 @@ You can learn more about me on [my website](https://craftplacer.github.io/) ([so
 ##### Currently working on:
 - [Kaiteki](https://github.com/Craftplacer/kaiteki)
 
-##### WinForms applications
-- [ClassicSuite](https://github.com/Craftplacer/ClassicSuite)
-- [Tweak Utility](https://github.com/Craftplacer/TweakUtility)
-- [Renamer](https://github.com/Craftplacer/Renamer)
+##### Other Projects:
 
-##### Libraries and Misc.
-- [Craftplacer.Library](https://github.com/Craftplacer/Library)
-- [Craftplacer.IRC](https://github.com/Craftplacer/IRC)
-- ~~[Material Skin](https://github.com/Craftplacer/MaterialSkin)~~
-
-##### Repositories I have contributed to:
-- [Naamloos/Obsidian](https://github.com/Naamloos/Obsidian)
-- [FunOrange/osu-trainer](https://github.com/FunOrange/osu-trainer)
-- [ppy/osu](https://github.com/ppy/osu)
-- [ShareX](https://github.com/ShareX/ShareX)
+| WinForms applications | Libraries and Misc. | Contributions | 
+| - | - | - |
+| [ClassicSuite](https://github.com/Craftplacer/ClassicSuite) | [Craftplacer.Library](https://github.com/Craftplacer/Library) | [Naamloos/Obsidian](https://github.com/Naamloos/Obsidian) |
+| [Tweak Utility](https://github.com/Craftplacer/TweakUtility) | [Craftplacer.IRC](https://github.com/Craftplacer/IRC) | [FunOrange/osu-trainer](https://github.com/FunOrange/osu-trainer) |
+| [Renamer](https://github.com/Craftplacer/Renamer) | ~~[Material Skin](https://github.com/Craftplacer/MaterialSkin)~~ | [ppy/osu](https://github.com/ppy/osu) |
+| | | [ShareX](https://github.com/ShareX/ShareX) |
 
 ##### Abandoned
 - [r/layer bot](https://github.com/Craftplacer/r-layer-Bot)
