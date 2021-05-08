@@ -6,12 +6,12 @@ I am a lonely weeb from Germany that spends time with coding and anime. [You can
 
 ---
 
-##### Currently working on:
+#### Currently working on
 [![Kaiteki](https://github-readme-stats.vercel.app/api/pin/?username=Craftplacer&repo=kaiteki&show_icons=true&theme=dracula&hide=stars&bg_color=22272e&title_color=f48fb1&icon_color=f48fb1&border_color=444c56)](https://github.com/Craftplacer/kaiteki)
 
 ---
 
-##### Other Projects:
+#### Other projects
 
 | WinForms applications | Libraries and Misc. | Contributions | 
 | - | - | - |
@@ -20,5 +20,7 @@ I am a lonely weeb from Germany that spends time with coding and anime. [You can
 | [Renamer](https://github.com/Craftplacer/Renamer) | ~~[Material Skin](https://github.com/Craftplacer/MaterialSkin)~~ | [ppy/osu](https://github.com/ppy/osu) |
 | | | [ShareX](https://github.com/ShareX/ShareX) |
 
-##### Abandoned
+---
+
+#### Stale projects
 [r/layer bot](https://github.com/Craftplacer/r-layer-Bot) • [CraftBot](https://github.com/Craftplacer/CraftBot) • *Scratch:* [Multi-purpose ScratchX extension](https://github.com/Craftplacer/ScratchExtension) • [Indigo](https://github.com/Craftplacer/Indigo) • *Messenger Suite:* [MessengerDotNet](https://github.com/Craftplacer/MessengerDotNet) • [Activity Monitor](https://github.com/Craftplacer/MessengerActivityMonitor) • [Version Switcher](https://github.com/Craftplacer/MessengerVersionSwitcher) • [Rich Presence](https://github.com/Craftplacer/MessengerRichPresence)
