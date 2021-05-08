@@ -1,11 +1,15 @@
-### Hi there `=w=`
+### Hi there 🌸
 
-I am a lonely weeb from Germany that spends time with coding.
+I am a lonely weeb from Germany that spends time with coding and anime. [You can learn more about me on my website](https://craftplacer.github.io/)
 
-You can learn more about me on [my website](https://craftplacer.github.io/) ([source](https://github.com/Craftplacer/craftplacer.github.io)).
+<img src="https://github-readme-stats.vercel.app/api?username=Craftplacer&show_icons=true&theme=dracula&hide=stars&bg_color=22272e&title_color=f48fb1&icon_color=f48fb1&border_color=444c56">
+
+---
 
 ##### Currently working on:
-- [Kaiteki](https://github.com/Craftplacer/kaiteki)
+[![Kaiteki](https://github-readme-stats.vercel.app/api/pin/?username=Craftplacer&repo=kaiteki&show_icons=true&theme=dracula&hide=stars&bg_color=22272e&title_color=f48fb1&icon_color=f48fb1&border_color=444c56)](https://github.com/Craftplacer/kaiteki)
+
+---
 
 ##### Other Projects:
 
@@ -17,13 +21,4 @@ You can learn more about me on [my website](https://craftplacer.github.io/) ([so
 | | | [ShareX](https://github.com/ShareX/ShareX) |
 
 ##### Abandoned
-- [r/layer bot](https://github.com/Craftplacer/r-layer-Bot)
-- [CraftBot](https://github.com/Craftplacer/CraftBot)
-- Scratch related
-  - [Multi-purpose ScratchX extension](https://github.com/Craftplacer/ScratchExtension)
-  - [Indigo](https://github.com/Craftplacer/Indigo)
-- Messenger Suite
-  - [MessengerDotNet](https://github.com/Craftplacer/MessengerDotNet)
-  - [Activity Monitor](https://github.com/Craftplacer/MessengerActivityMonitor)
-  - [Version Switcher](https://github.com/Craftplacer/MessengerVersionSwitcher)
-  - [Rich Presence](https://github.com/Craftplacer/MessengerRichPresence)
+[r/layer bot](https://github.com/Craftplacer/r-layer-Bot) • [CraftBot](https://github.com/Craftplacer/CraftBot) • *Scratch:* [Multi-purpose ScratchX extension](https://github.com/Craftplacer/ScratchExtension) • [Indigo](https://github.com/Craftplacer/Indigo) • *Messenger Suite:* [MessengerDotNet](https://github.com/Craftplacer/MessengerDotNet) • [Activity Monitor](https://github.com/Craftplacer/MessengerActivityMonitor) • [Version Switcher](https://github.com/Craftplacer/MessengerVersionSwitcher) • [Rich Presence](https://github.com/Craftplacer/MessengerRichPresence)
