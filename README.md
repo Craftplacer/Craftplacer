@@ -1,6 +1,6 @@
 ### Hi there :cherry_blossom: [<img align="right" src="https://img.shields.io/badge/-website-f06292">](https://craftplacer.github.io)
 
-<img align="right" src="https://64.media.tumblr.com/852f699f70812e6b34c27009e65ea04b/tumblr_pe28dktMRe1rpl3pxo2_1280.jpg" width=300>
+<img align="right" src="https://64.media.tumblr.com/852f699f70812e6b34c27009e65ea04b/tumblr_pe28dktMRe1rpl3pxo2_1280.jpg" width=280>
 
 I am a lonely weeb from Germany that spends time with coding and anime.
 
