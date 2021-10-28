@@ -1,8 +1,6 @@
 ### Hi there :cherry_blossom: [<img align="right" src="https://img.shields.io/badge/-website-f06292">](https://craftplacer.github.io)
 
-<img align="right" src="https://64.media.tumblr.com/852f699f70812e6b34c27009e65ea04b/tumblr_pe28dktMRe1rpl3pxo2_1280.jpg" width=280>
-
-I am a lonely weeb from Germany that spends time with coding and anime.
+I am a weeb from Germany that spends time with coding.
 
 #### Languages I programmed in / capable of
 
@@ -34,5 +32,3 @@ I am a lonely weeb from Germany that spends time with coding and anime.
 
 #### Stale projects
 [r/layer bot](https://github.com/Craftplacer/r-layer-Bot) • [CraftBot](https://github.com/Craftplacer/CraftBot) • *Scratch:* [Multi-purpose ScratchX extension](https://github.com/Craftplacer/ScratchExtension) • [Indigo](https://github.com/Craftplacer/Indigo) • *Messenger Suite:* [MessengerDotNet](https://github.com/Craftplacer/MessengerDotNet) • [Activity Monitor](https://github.com/Craftplacer/MessengerActivityMonitor) • [Version Switcher](https://github.com/Craftplacer/MessengerVersionSwitcher) • [Rich Presence](https://github.com/Craftplacer/MessengerRichPresence)
-
-[*Illust from kaaaaaappe*](https://kaaaaaappe.tumblr.com/post/177404633458)
