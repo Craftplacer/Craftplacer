@@ -1,10 +1,14 @@
 ### Hi there :cherry_blossom:
 
-I am a weeb from Germany that spends time with coding. Visit my website [craftplacer.moe](https://craftplacer.moe/) where you can learn more about me and the things I do.
+I am a weeb from Germany that spends time with coding. Visit my website [craftplacer.moe](https://craftplacer.moe/) where you can learn more about me and the things I do and have contributed to.
 
-##### Languages 
+##### Languages & Frameworks
 
 ![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-blue) ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp) ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart)  ![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua) 
+
+###### App development
+
+![Windows Forms](https://img.shields.io/badge/-Windows%20Forms-666?logo=windows) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter)
 
 ###### Web development
 
