@@ -1,6 +1,6 @@
 ## Hi there :cherry_blossom:
 
-I am a weeb that spends time with coding. Visit my website [craftplacer.moe](https://craftplacer.moe/) where you can learn more about me and the things I do and have contributed to.
+Welcome to my GitHub account where I maintain and contribute to several projects.
 
 ### Skills
 
